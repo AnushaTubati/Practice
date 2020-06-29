@@ -2,3 +2,4 @@ this file use to know the fetch command anu
 
 adding content in new branch,
 working on git fetch and pull command
+checking how works the commands
